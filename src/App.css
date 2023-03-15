@@ -7,6 +7,32 @@
 
 .main-container {
   flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
+.all-cards-container, .score-board-container {
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.all-cards-container {
+  justify-content: center;
+  gap: 30px;
+}
+
+.score-board-container {
+  justify-content: space-between;
+}
+
+.card {
+  width: 200px;
+  height: 230px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
