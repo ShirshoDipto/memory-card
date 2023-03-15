@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memory-card/static/css/main.4f65f68b.css",
-    "main.js": "/memory-card/static/js/main.55ceb95d.js",
+    "main.js": "/memory-card/static/js/main.c824dadd.js",
     "static/media/nuts.jpg": "/memory-card/static/media/nuts.f820fd26ae959662cd11.jpg",
     "static/media/apple.jpg": "/memory-card/static/media/apple.6efbc71a2e3f9d48aa2f.jpg",
     "static/media/blackberry.jpg": "/memory-card/static/media/blackberry.2a4b63751a54d30b3cb5.jpg",
@@ -16,10 +16,10 @@
     "static/media/banana.jpg": "/memory-card/static/media/banana.e0ed5531621f9165ce77.jpg",
     "index.html": "/memory-card/index.html",
     "main.4f65f68b.css.map": "/memory-card/static/css/main.4f65f68b.css.map",
-    "main.55ceb95d.js.map": "/memory-card/static/js/main.55ceb95d.js.map"
+    "main.c824dadd.js.map": "/memory-card/static/js/main.c824dadd.js.map"
   },
   "entrypoints": [
     "static/css/main.4f65f68b.css",
-    "static/js/main.55ceb95d.js"
+    "static/js/main.c824dadd.js"
   ]
 }
