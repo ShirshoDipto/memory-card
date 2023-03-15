@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.4f65f68b.css",
+    "main.js": "/memory-card/static/js/main.55ceb95d.js",
+    "static/media/nuts.jpg": "/memory-card/static/media/nuts.f820fd26ae959662cd11.jpg",
+    "static/media/apple.jpg": "/memory-card/static/media/apple.6efbc71a2e3f9d48aa2f.jpg",
+    "static/media/blackberry.jpg": "/memory-card/static/media/blackberry.2a4b63751a54d30b3cb5.jpg",
+    "static/media/mango.jpg": "/memory-card/static/media/mango.2f48f7d80f1e119a1063.jpg",
+    "static/media/greenCoconut.jpg": "/memory-card/static/media/greenCoconut.099727d344a550cdd34a.jpg",
+    "static/media/palm.jpg": "/memory-card/static/media/palm.6a02a8a257dcdbc2ef91.jpg",
+    "static/media/guava.jpg": "/memory-card/static/media/guava.c2df9589fb57342fb505.jpg",
+    "static/media/litchi.jpg": "/memory-card/static/media/litchi.77debcc8d2461fcaa752.jpg",
+    "static/media/jackfruit.jpg": "/memory-card/static/media/jackfruit.5fe3dc74139702b2e2eb.jpg",
+    "static/media/sugarcane.jpg": "/memory-card/static/media/sugarcane.f175e8f031724bb49aab.jpg",
+    "static/media/watermelon.jpg": "/memory-card/static/media/watermelon.fc12c91e52625fb1f015.jpg",
+    "static/media/banana.jpg": "/memory-card/static/media/banana.e0ed5531621f9165ce77.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.4f65f68b.css.map": "/memory-card/static/css/main.4f65f68b.css.map",
+    "main.55ceb95d.js.map": "/memory-card/static/js/main.55ceb95d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f65f68b.css",
+    "static/js/main.55ceb95d.js"
+  ]
+}
